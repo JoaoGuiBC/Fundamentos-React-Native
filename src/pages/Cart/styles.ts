@@ -38,6 +38,7 @@ export const ProductTitleContainer = styled.View`
 
 export const ProductTitle = styled.Text`
   font-size: 16px;
+  width: 145px;
 `;
 
 export const ProductPriceContainer = styled.View`

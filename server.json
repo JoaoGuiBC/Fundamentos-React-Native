@@ -2,27 +2,39 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "CAMISETA CINZA - CARINHA",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/974/635/products/camiseta-cinza-masculina-carinha1-ed9826916d72351cce15978679800228-1024-1024.png",
+      "price": 56.90
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "CAMISETA PRETA - MINI BAPHOMET",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/974/635/products/51-32731f933b76ed10cc15787658026783-1024-1024.png",
+      "price": 56.90
+    },
+    {
+      "id": "123458",
+      "title": "CAMISETA RAGLAN PRETA - BB FELPS",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/974/635/products/2-copia1-2b681b7e9d091497d215787654447459-1024-1024.png",
+      "price": 59.90
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "MOLETOM CINZA - SAKURA",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/974/635/products/costas-moletom-cinza-sakura1-afce3fca86a8f2a59f16021636167811-1024-1024.png",
+      "price": 179.90
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "CAMISETA BRANCA - RYU",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/974/635/products/camiseta-branca-masculina-ryu1-401d4ec16f3ae0daae16021664229879-1024-1024.png",
+      "price": 59.90
+    },
+    {
+      "id": "1234569",
+      "title": "CALÇA MOLETOM ROSA - SAKURA",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/974/635/products/calca-rosa41-aef69be3c161a9426c16021642614436-1024-1024.png",
+      "price": 139.90
     }
   ]
 }
